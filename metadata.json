@@ -1,0 +1,7 @@
+{
+  "name": "CanonMeter",
+  "description": "The adaptation fidelity and quality scoreboard for movies and TV shows, tracking community source faithfulness alongside cinematic excellence.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
